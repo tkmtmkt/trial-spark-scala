@@ -1,1 +1,1 @@
-# study-spark-scala
+# trial-spark-scala
